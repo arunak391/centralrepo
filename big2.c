@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//;
 biggest2()
 {
     int num1, num2;
